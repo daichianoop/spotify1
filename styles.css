@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.artist-photo{
+    background-image: url(Images/Artist/1.jpg);
+    background-size: cover;
+}
